@@ -1,6 +1,6 @@
 # Daily Greeting
 
-**A friendlier glance at your day, by RunX Studios.**
+**A friendlier glance at your day.**
 
 Daily Greeting is a small Scriptable widget for the line above your iPhone's Lock Screen clock. It checks your calendar and displays a short greeting or a summary of your plans. The system's day and date stay alongside it.
 
